@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components/static/css/main.8c5dcaa1.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.a0313175.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.a0313175.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.ac6bac53.js",
+    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.ac6bac53.js.map",
+    "static/js/2.617d7456.chunk.js": "/goit-react-hw-01-components/static/js/2.617d7456.chunk.js",
+    "static/js/2.617d7456.chunk.js.map": "/goit-react-hw-01-components/static/js/2.617d7456.chunk.js.map",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "precache-manifest.3dbd0afbda92fc9363c88a62fb0b8b39.js": "/goit-react-hw-01-components/precache-manifest.3dbd0afbda92fc9363c88a62fb0b8b39.js",
+    "service-worker.js": "/goit-react-hw-01-components/service-worker.js",
+    "static/css/main.8c5dcaa1.chunk.css.map": "/goit-react-hw-01-components/static/css/main.8c5dcaa1.chunk.css.map",
+    "static/media/FriendList.module.css": "/goit-react-hw-01-components/static/media/lato-v15-latin-regular.056a373d.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac6bac53.js",
+    "static/js/2.617d7456.chunk.js",
+    "static/css/main.8c5dcaa1.chunk.css",
+    "static/js/main.a0313175.chunk.js"
+  ]
+}
