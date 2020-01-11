@@ -1,0 +1,119 @@
+/* lato-700 - latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../Fonts/Lato/lato-v15-latin-700.eot');
+    src: url('../Fonts/Lato/lato-v15-latin-regular.eot');
+}
+
+.hometasktitle {
+    display: block;
+    position: relative;
+    top: 175px;
+    left: -300px;
+    transform: rotate(-90deg);
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Lato';
+    text-transform: uppercase;
+    color: #ced4da;
+}
+
+.profile {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 258px;
+    height: 380px;
+    /* border: 1px solid #e2e8ef; */
+    border-radius: 2%;
+    -webkit-box-shadow: 1px 1px 4px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 1px 1px 4px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 1px 1px 4px 0px rgba(50, 50, 50, 0.75);
+}
+
+.description {}
+
+.avatar {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+
+.name {
+    /* margin: auto; */
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Lato';
+    margin: 0;
+    padding: 0;
+}
+
+.tag {
+    text-align: center;
+    margin: 11px 0px 11px;
+    padding: 0;
+    font-size: 14px;
+    font-family: 'Lato', regular;
+    color: #768696;
+}
+
+.location {
+    text-align: center;
+    margin-top: 11px 0 11px;
+    padding: 0;
+    font-size: 14px;
+    font-family: 'Lato', regular;
+    color: #768696;
+    margin-bottom: 30px;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.statsItem {
+    width: 85px;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f3f6f9;
+}
+
+.statsItem:nth-child(3n-1) {
+    border-left: 1px solid #e2e8ef;
+    border-top: 1px solid #e2e8ef;
+    border-right: 1px solid #e2e8ef;
+}
+
+.statsItem:nth-child(2n+1) {
+    border-top: 1px solid #e2e8ef;
+}
+
+.label {
+    font-size: 12px;
+    font-family: 'Lato', regular;
+    color: #768696;
+    margin-bottom: 9px;
+}
+
+.quantity {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Lato';
+}
